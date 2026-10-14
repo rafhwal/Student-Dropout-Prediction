@@ -61,9 +61,3 @@ Proyek ini mengimplementasikan alur kerja *Data Science* / *Machine Learning* le
   * `scikit-learn` — Pemodelan Machine Learning (Decision Tree & Random Forest)
 
 ---
-
-## 👥 Anggota Kelompok (Kelompok 4)
-* **Fatimah Alya Shabirah**
-* **Marcelo Huggie Robin Eloniah Azis**
-* **La Ode Ihwal Rafael**
-* **Elsya Sagitha Damayanti .S**
